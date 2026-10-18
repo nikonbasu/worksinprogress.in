@@ -1,4 +1,4 @@
-// worksinprogress.in — theme toggle, wordmark fit, filters, in-view video, lightbox.
+// worksinprogress.in — theme toggle, wordmark fit, filters, in-view video, lightbox. (v2)
 (() => {
   const root = document.documentElement;
   const store = {
