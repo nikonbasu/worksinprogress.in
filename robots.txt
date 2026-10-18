@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nikonbasu.github.io/worksinprogress.in/sitemap.xml
